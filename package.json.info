@@ -1,0 +1,19 @@
+{
+  "name": "computer-inventory-app",
+  "version": "1.0.0",
+  "description": "Sistem Manajemen Inventaris Komputer dengan React & Supabase",
+  "author": "Your Name",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/arbiyantoro-cloud/computer-inventory-app"
+  },
+  "keywords": [
+    "inventory",
+    "computer",
+    "management",
+    "maintenance",
+    "react",
+    "supabase"
+  ]
+}
